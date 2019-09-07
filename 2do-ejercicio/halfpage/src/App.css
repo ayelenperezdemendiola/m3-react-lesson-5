@@ -1,0 +1,22 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  color: white;
+
+}
+.left-container{
+  min-height: 100vh;
+  background-color: lightseagreen;
+  width: 50%;
+  font-size: 24px;
+}
+.right-container{
+  min-height: 100vh;
+  background-color: palevioletred;
+  width: 50%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 24px;
+
+}
